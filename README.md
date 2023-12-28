@@ -1,0 +1,4 @@
+- 👋 Hello, I'm Ijmamul Hak
+- 👀 I am enthusiastic about the world of technology and have taken it upon myself to explore the realms of digital marketing, adding a dynamic layer to my skill set.
+- 🌱 In addition to my formal education, I am actively honing my skills in full-stack development.
+- 💞️ I am excited about the opportunities that the intersection of technology and marketing presents, and I look forward to utilizing my knowledge and skills to make a meaningful impact in the tech industry.
